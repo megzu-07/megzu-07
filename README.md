@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghana</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 
-<img align="right" alt="coding" width="500" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="coding" width="450" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megzu-07&label=Profile%20views&color=0e75b6&style=flat" alt="megzu-07" /> </p>
